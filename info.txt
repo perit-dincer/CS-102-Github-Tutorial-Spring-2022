@@ -1,2 +1,35 @@
 Perit Dinçer - 22103102 - https://github.com/perit-dincer
 Borderlands 2
+
+commit d9a5ead510e4151c4c75303671a6f04161a21ad0 (HEAD -> main, origin/main, origin/HEAD)
+Merge: e35f16b e68f9f3
+Author: Perit Dinçer <91341950+perit-dincer@users.noreply.github.com>
+Date:   Wed Feb 9 17:02:52 2022 +0300
+
+    Merge pull request #1 from perit-dincer/new_information
+
+    Added favorite game to info.txt
+
+commit e68f9f317caf0a96176622be50b09cd3723102a2 (origin/new_information, new_information)
+Author: Perit Dinçer <peritdincer@gmail.com>
+Date:   Wed Feb 9 17:02:19 2022 +0300
+
+    Added favorite game to info.txt
+
+commit e35f16b8acb1ab8520ea1ebdab99825261b2feaf
+Author: Perit Dinçer <peritdincer@gmail.com>
+Date:   Wed Feb 9 17:00:49 2022 +0300
+
+    Perit_Dinçer updated info.txt
+
+commit dca87da56a02553d7fa18a9aba92aabb0812f6c8
+Author: Perit Dinçer <peritdincer@gmail.com>
+Date:   Wed Feb 9 16:59:51 2022 +0300
+
+    Create info.txt
+
+commit 21694001e76d1ab84e760c459f7172b3535ad6f2
+Author: Perit Dinçer <91341950+perit-dincer@users.noreply.github.com>
+Date:   Wed Feb 9 16:57:57 2022 +0300
+
+    Initial commit
